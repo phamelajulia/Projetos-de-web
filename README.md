@@ -10,4 +10,6 @@
 
 ## [projeto 05]( https://phamelajulia.github.io/projeto-05/)
 
-## [projeto 06](
+## [projeto 06]( https://phamelajulia.github.io/projeto-06/)
+
+## [projeto 07](
