@@ -14,4 +14,4 @@
 
 ## [projeto 07](https://phamelajulia.github.io/projeto-07/)
 
-###Dupla :Phamela Julia e Hayanna Yohara.
+### Dupla :Phamela Julia Sena da Silva e Hayanna Yohara Calvacante Castro.
