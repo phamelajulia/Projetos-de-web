@@ -12,4 +12,6 @@
 
 ## [projeto 06]( https://phamelajulia.github.io/projeto-06/)
 
-## [projeto 07](
+## [projeto 07](https://phamelajulia.github.io/projeto-07/)
+
+###Dupla :Phamela Julia e Hayanna Yohara.
